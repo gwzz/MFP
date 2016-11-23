@@ -7,3 +7,7 @@
 Html::Html(std::string filename) {
 
 }
+
+void Html::Print() {
+	
+}

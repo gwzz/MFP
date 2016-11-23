@@ -9,6 +9,7 @@ class Html
 
 public:
 	Html(std::string filename);
+	void Print();
 
 };
 #endif // MFP_HTML_H_
