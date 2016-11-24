@@ -6,7 +6,7 @@
 #include <map>
 class Html
 {
-
+	std::vector<std::string> file_chunk;
 public:
 	Html(std::string filename);
 	void Print();
