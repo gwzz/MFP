@@ -9,5 +9,6 @@ int main(int argc, char const *argv[]){
     return 1;
   }
   Html html_file(argv[1]);
+  html_file.Print();
 	return 0;
 }

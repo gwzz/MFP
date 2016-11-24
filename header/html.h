@@ -7,8 +7,10 @@
 class Html
 {
 	std::vector<std::string> file_chunk;
+	std::vector<std::string> markdown_file;
 public:
 	Html(std::string filename);
+	void Parse();
 	void Print();
 
 };

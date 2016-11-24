@@ -18,5 +18,5 @@ Html::Html(std::string filename) {
 }
 
 void Html::Print() {
-
+	std::cout << "Work" << std::endl;
 }
