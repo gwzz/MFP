@@ -5,5 +5,5 @@ Multi Format File Parser
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/gwzz/MFP/blob/master/LICENSE.md)
 ## To-Do list
 - [ ] HTML file to Markdown file :construction:
-- [ ] Markdown Parser
-- [ ] CSV
+- [ ] Markdown Parser :construction:
+- [ ] CSV :construction:
