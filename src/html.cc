@@ -17,6 +17,10 @@ Html::Html(std::string filename) {
 	}
 }
 
-void Html::Print() {
+void Html::ToMarkdown() {
 	std::cout << "Work" << std::endl;
+}
+
+void Html::Parse() {
+	
 }

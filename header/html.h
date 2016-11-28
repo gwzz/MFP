@@ -11,7 +11,7 @@ class Html
 public:
 	Html(std::string filename);
 	void Parse();
-	void Print();
+	void ToMarkdown();
 
 };
 #endif // MFP_HTML_H_
